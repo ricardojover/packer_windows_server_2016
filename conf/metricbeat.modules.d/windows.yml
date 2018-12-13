@@ -1,0 +1,4 @@
+- module: windows
+  metricsets: ["service"]
+  period: 60s
+
